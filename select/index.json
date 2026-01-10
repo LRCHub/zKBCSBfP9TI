@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "永遠の不在証明",
+  "base_artist": "東京事変",
+  "createdAt": "2026-01-10T13:26:21.567328Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "永遠の不在証明",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/01_永遠の不在証明_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "永遠の不在証明",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/02_永遠の不在証明_東京事変.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "永遠の不在証明",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/03_永遠の不在証明_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "永遠の不在証明 - The Scarlet Alibi",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/04_永遠の不在証明_-_The_Scarlet_Alibi_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "永遠の不在証明",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/05_永遠の不在証明_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "永遠の不在証明",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/06_永遠の不在証明_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "永遠の不在証明",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/07_永遠の不在証明_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永遠の不在証明",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_永遠の不在証明_東京事変.txt"
+    }
+  ]
+}
